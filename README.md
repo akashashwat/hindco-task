@@ -21,21 +21,19 @@ To run the website locally on your machine, follow these steps:
 
 Clone the repository to your local machine using the following command:
 bash
-Copy code
 git clone https://github.com/your-username/product-landing-website.git
+
 Navigate to the project directory:
 bash
-Copy code
 cd product-landing-website
+
 Install dependencies using npm:
-Copy code
 npm install
+
 Usage
 After completing the installation steps, you can start the development server by running:
-
-sql
-Copy code
 npm start
+
 This will launch the website in your default web browser, allowing you to explore the various pages and features.
 
 Contributing
